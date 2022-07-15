@@ -1,7 +1,7 @@
 ![](./Cover/Cover.jpg)
 
 > ### Hi there 👋
-> <b>I'm a 19 year old coding enthusiast with some knowledge in App Development with strong technical, problem-solving with excellent time management, leadership, and team skills who is likely to create an impact on the organization/work, I'm a part of and always loves to socialize and experience new things in life.</b>
+> <b>I'm a 19 year old self-taught programmer. I'm currenntly learing Flutter and looking to collaborate with others on projetcs related to Building Apps.</b>
 
 
 ## 🛠️ Tech Stack:
