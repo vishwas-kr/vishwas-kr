@@ -1,8 +1,11 @@
+
 ![](./Cover/Cover.jpg)
 
 > ### Hi there 👋
 > <b>I'm a 19 year old self-taught programmer. I'm currenntly learing Flutter and looking to collaborate with others on projetcs related to Building Apps.</b>
 
+
+![](https://komarev.com/ghpvc/?username=vishwas-kr&color=lightgrey)
 
 ## 🛠️ Tech Stack:
 ![Flutter](https://img.shields.io/badge/-Flutter-555?style=flat&logo=Flutter&logoColor=5CC3F0)&nbsp;
