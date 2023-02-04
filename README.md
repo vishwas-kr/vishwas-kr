@@ -12,8 +12,11 @@
 ![Firebase](https://img.shields.io/badge/-Firebase-555?style=flat&logo=Firebase&logoColor=FFBF00)&nbsp;
 ![Dart](https://img.shields.io/badge/-Dart-555?style=flat&logo=Dart&logoColor=2BB1EE)&nbsp;
 ![Java](https://img.shields.io/badge/-Java-555?style=flat&logo=Java&logoColor=FFA518)&nbsp;
-![C](https://img.shields.io/badge/-C-555?style=flat&logo=C&logoColor=A8B9CC)&nbsp;\
+![C](https://img.shields.io/badge/-C-555?style=flat&logo=C&logoColor=A8B9CC)&nbsp;
 ![C++](https://img.shields.io/badge/-C++-555?style=flat&logo=C%2B%2B&logoColor=fff)&nbsp;
+![JavaScript](https://img.shields.io/badge/-JavaScript-555?style=flat&logo=javascript&logoColor=%23F7DF1E)&nbsp;\
+![NodeJS](https://img.shields.io/badge/node.js-555?style=flat&logo=node.js&logoColor=green)&nbsp;
+![MongoDB](https://img.shields.io/badge/MongoDB-555?style=flat&logo=mongodb&logoColor=green)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-555?style=flat&logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-555?style=flat&logo=github)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-555?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;\
