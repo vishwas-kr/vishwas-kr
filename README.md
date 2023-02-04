@@ -11,7 +11,7 @@
 ![Flutter](https://img.shields.io/badge/-Flutter-555?style=flat&logo=Flutter&logoColor=5CC3F0)&nbsp;
 ![Firebase](https://img.shields.io/badge/-Firebase-555?style=flat&logo=Firebase&logoColor=FFBF00)&nbsp;
 ![Dart](https://img.shields.io/badge/-Dart-555?style=flat&logo=Dart&logoColor=2BB1EE)&nbsp;
-![Java](https://img.shields.io/badge/-Java-555?style=flat&logo=Java&logoColor=FFA518)&nbsp;
+![Java](https://img.shields.io/badge/-Java-555?style=flat&logo=java&logoColor=FFA518)&nbsp;
 ![C](https://img.shields.io/badge/-C-555?style=flat&logo=C&logoColor=A8B9CC)&nbsp;
 ![C++](https://img.shields.io/badge/-C++-555?style=flat&logo=C%2B%2B&logoColor=fff)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-555?style=flat&logo=javascript&logoColor=%23F7DF1E)&nbsp;\
